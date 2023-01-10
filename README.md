@@ -1,6 +1,8 @@
 # oo_programming_2
 Object Oriented Programming (Universiry course). Assignment number 2.
 
+----------------------------------------------------
+
 Run-time difference for 'getNumOfLines()' explanation:
 
 First, it is important to note that the difference in run-times is 

@@ -43,7 +43,7 @@ Thread-Pool:
 ----------------------------------------------------
 In conclusion,
 the actions described above consume time. 
-As a result, executing time is longer.
+As a result, it takes longer to execute.
 
 The usage of a normal function is more direct.
 In other words, by using a regular function, we avoid the creation of

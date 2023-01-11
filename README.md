@@ -23,6 +23,7 @@ In our implementation of required methods,
 using a standard function to compute the amount of lines is quite straightforward.
 However, using threads (a thread pool in particular), requires additional computations,
 usage of more functions, and the creation of multiple objects.
+
 ----------------------------------------------------
 Threads:
 

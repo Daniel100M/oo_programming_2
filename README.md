@@ -49,3 +49,6 @@ The usage of a normal function is more direct.
 In other words, by using a regular function, we avoid the creation of
 many instances of classes, and by using less "assistant" methods,
 we cut down on computation time.
+Furthermore, starting and creating threads consumes
+many computer resources: memory, CPU, etc. This causes overall slower
+computation time.
